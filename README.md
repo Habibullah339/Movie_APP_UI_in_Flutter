@@ -1,4 +1,4 @@
-# nichemovies
+# Movi App UI in Flutter
 
 A new Flutter project.
 
