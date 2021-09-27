@@ -1,6 +1,6 @@
 # Movi App UI in Flutter
 
-A new Flutter project.
+
 Subscribe Our YouTube Channel.<br><br>
  ![YouTube](https://img.shields.io/youtube/channel/subscribers/UC7MuoT7cZtLjd6FoV9lHZ_g?style=social)<br>
 <a href="http://www.shifahub.ml" target="_parent"><button>Visit Website</button></a><br><br>
